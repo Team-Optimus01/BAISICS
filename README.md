@@ -1,1 +1,1 @@
-# BAISICS
+# BASICS
